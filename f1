@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main()
+{
+   float age;
+
+   age = 10.5;
+   printf("TechOnTheNet.com is over %f years old.\n", age);
+
+   return 0;
+}
