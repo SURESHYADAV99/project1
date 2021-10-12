@@ -7,5 +7,5 @@ int main()
    age = 10.5;
    printf("TechOnTheNet.com is over %f years old.\n", age);
 
-   return 0;
+   return 1;
 }
